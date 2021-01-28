@@ -72,15 +72,15 @@ a:hover{
   .bottom_cloud
   {
 position: absolute;
-left: 300px;
-bottom: 50px;
+left: 400px;
+bottom: 100px;
 }
 
   .frnt_pg{  
   background-color: #EAF6F6;
   position: relative;
   padding-top: 150px;
-  padding-bottom:100px;
+  padding-bottom:300px;
     }
   .profilepic
   {
