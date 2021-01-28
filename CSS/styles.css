@@ -74,12 +74,10 @@ left: 250px;
   bottom: 300px;
   }
 
-  .frnt_pg{
-    padding-top:150px;
-    text-align:center;
-    background-color:#EAF6F6;
-width: 100%;
-      position: relative;
+  .frnt_pg{  
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
   }
   .profilepic
   {
