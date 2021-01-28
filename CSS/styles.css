@@ -1,5 +1,6 @@
 body{
   margin: 0;
+  background-color: #E4F9F5;
 }
 h1 {
   color: #66BFBF;
@@ -141,8 +142,4 @@ padding-top: 50px;
   text-align: center;
   background-color: #66BFBF;
   padding-top: 20px;
-}
-
-.mountain{
-  position: relative;
 }
