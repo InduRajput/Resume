@@ -62,7 +62,7 @@ a:hover{
   .top_cloud
   {
     position: absolute;
-    right: 100px;
+    right: 350px;
     top: 40px;
       }
 
@@ -72,7 +72,7 @@ a:hover{
   .bottom_cloud
   {
 position: absolute;
-left: 200px;
+left: 300px;
   bottom: 50px;
 }
 
